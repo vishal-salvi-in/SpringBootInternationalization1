@@ -1,0 +1,2 @@
+# SpringBootInternationalization1
+SpringBootInternationalization1 contains i18N support example in SpringBoot Framework
